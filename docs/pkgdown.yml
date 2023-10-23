@@ -1,0 +1,19 @@
+pandoc: 2.19.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  join-keys: join-keys.html
+  migrate-to-teal_data: migrate-to-teal_data.html
+  preprocessing-data: preprocessing-data.html
+  preprocessing-delayed-data: preprocessing-delayed-data.html
+  reproducibility: reproducibility.html
+  teal-data: teal-data.html
+  teal.data-with-python: teal.data-with-python.html
+  testing-delayed-data: testing-delayed-data.html
+  using-delayed-data-advanced: using-delayed-data-advanced.html
+  using-delayed-data-basic: using-delayed-data-basic.html
+last_built: 2023-10-23T11:10Z
+urls:
+  reference: https://insightsengineering.github.io/teal.data/reference
+  article: https://insightsengineering.github.io/teal.data/articles
+
